@@ -1,0 +1,209 @@
+{
+  "shoplists": [
+    {
+      "id": 1,
+      "name": "A2B",
+      "address": "avadi,chennai",
+      "phone": "944234345",
+      "rating": 4.1,
+      "type": "pureveg",
+      "imageUrl": " require('./src/assets/image/hotel1.png')",
+      "foods": [
+        {
+          "name": "Chapatti",
+          "id": 1,
+          "descripition": "Indian flat bread made by wheat flour",
+          "rating": 4.1,
+          "review": "Great start for breakfast",
+          "quantity": 2,
+          "price": 50,
+          "image": " require('./src/assets/image/chapati.jpg')"
+        },
+        {
+          "name": "Puri",
+          "id": 2,
+          "descripition": "A deep fried bread made from whole wheat flour",
+          "rating": 4.2,
+          "review": "Tastes better with potato curry",
+          "quantity": 2,
+          "price": 70,
+          "image": "require('./src/assets/image/puri.jpg')"
+        },
+        {
+          "name": "Vaadai",
+          "id": 3,
+          "descripition": "A SouthIndian breakfast snack",
+          "rating": 4.4,
+          "review": " Delicious!",
+          "quantity": 1,
+          "price": 20,
+          "image": " require('./src/assets/image/vaadai.jpg')"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Dominos",
+      "address": "avadicheckpost,chennai",
+      "phone": 944236765,
+      "rating": 4.3,
+      "type": "NV",
+      "imageUrl": "require('./src/assets/image/hotel2.jpg')",
+      "foods": [
+        {
+          "name": "MargaritaPizza",
+          "id": 1,
+          "descripition": "Dish of Italian origin",
+          "rating": 4.5,
+          "review": "Pizza was great with all the flavors",
+          "quantity": 1,
+          "price": 200,
+          "image": "require('./src/assets/image/margarittapizza.jpg')"
+        },
+        {
+          "name": "ChickenPizza",
+          "id": 2,
+          "descripition": "Dish of Italian origin",
+          "rating": 4,
+          "review": "Pizza was great with all the flavors",
+          "quantity": 1,
+          "price": 520,
+          "image": "require('./src/assets/image/chickenpizza.jpg')"
+        },
+        {
+          "name": "PannerPizza",
+          "id": 3,
+          "descripition": "Dish of Italian origin",
+          "rating": 4.2,
+          "review": "Pizza was great with all the flavors",
+          "quantity": 1,
+          "price": 420,
+          "image": "require('./src/assets/image/pannerpizza.jpg')"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "McDonalds",
+      "address": "annanagar,chennai",
+      "phone": 944356532,
+      "rating": 4,
+      "type": "NV",
+      "imageUrl": "require('./src/assets/image/hotel3.jpg')",
+      "foods": [
+        {
+          "name": "ChickenNuggets",
+          "id": 1,
+          "descripition": "Wrapped chicken with bread",
+          "rating": 4.2,
+          "review": "tasty",
+          "quantity": 8,
+          "price": 220,
+          "image": "require('./src/assets/image/chickennuggets.jpg')"
+        },
+        {
+          "name": "ComboFood",
+          "id": 2,
+          "descripition": "Wrapped chicken with bread",
+          "rating": 4.2,
+          "review": "tasty",
+          "quantity": 1,
+          "price": 720,
+          "image": "require('./src/assets/image/combofood.jpg')"
+        },
+        {
+          "name": "FrenchFries",
+          "id": 3,
+          "descripition": "deep fried potato",
+          "rating": 4.2,
+          "review": "tasty",
+          "quantity": 1,
+          "price": 120,
+          "image": "require('./src/assets/image/frenchfries.jpg')"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "StarBucks",
+      "address": "velachery,chennai",
+      "phone": 909945553,
+      "rating": 4,
+      "type": "NV",
+      "imageUrl": "require('./src/assets/image/hotel4.jpg')",
+      "foods": [
+        {
+          "name": "IcedCoffee",
+          "id": 1,
+          "descripition": "A specialty coffee",
+          "rating": 4.2,
+          "review": "Made with original beans & Great aromas",
+          "quantity": 1,
+          "price": 250,
+          "image": "require('./src/assets/image/icedcoffee.jpg')"
+        },
+        {
+          "name": "IcedTeaLatte",
+          "id": 2,
+          "descripition": "A specialty tea",
+          "rating": 4.2,
+          "review": "Made with original beans & Great aromas",
+          "quantity": 1,
+          "price": 320,
+          "image": "require('./src/assets/image/icedtealatte.jpg')"
+        },
+        {
+          "name": "DoubleChocoCoffe",
+          "id": 3,
+          "descripition": "A specialty coffee",
+          "rating": 4.2,
+          "review": "Made with original beans & Great aromas",
+          "quantity": 1,
+          "price": 550,
+          "image": "require('./src/assets/image/doublechococoffe.jpg')"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "KFC",
+      "address": "adayar,chennai",
+      "phone": 979945553,
+      "rating": 4,
+      "type": "NV",
+      "imageUrl": "require('./src/assets/image/hotel5.jpg')",
+      "foods": [
+        {
+          "name": "HotWings",
+          "id": 1,
+          "descripition": "flavors are breaded with spiciness",
+          "rating": 4.2,
+          "review": "nicely browned and crunchy",
+          "quantity": 1,
+          "price": 320,
+          "image": "require('./src/assets/image/hotwings.jpg')"
+        },
+        {
+          "name": "ChickenPopcorn",
+          "id": 2,
+          "descripition": "flavors are breaded with spiciness",
+          "rating": 4.2,
+          "review": "nicely browned and crunchy",
+          "quantity": 1,
+          "price": 380,
+          "image": "require('./src/assets/image/chickenpopcorn.jpg')"
+        },
+        {
+          "name": "ChickenStrips",
+          "id": 3,
+          "descripition": "flavors are breaded with spiciness",
+          "rating": 4.2,
+          "review": "nicely browned and crunchy",
+          "quantity": 1,
+          "price": 300,
+          "image": "require('./src/assets/image/chickenstrips.jpg')"
+        }
+      ]
+    }
+  ]
+}
